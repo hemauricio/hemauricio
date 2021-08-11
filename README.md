@@ -1,3 +1,7 @@
+
+
+<!--
+
 ### Hi there 👋 Welcome to my Github page :octocat: 
 
 I'm Mauricio :bowtie:, and I like Python :snake: , Firebase :fire: , and Pitbull dogs :dog: :dog2:
@@ -11,7 +15,7 @@ I enjoy solving complex issues :brain: and answering questions on Stack Overflow
 Do not hesitate in reaching out to me if you want.
 - :mailbox_with_mail: mauricio@hemauricio.com
 - :large_blue_circle: [LinkedIn](https://hemauricio.com/linkedin)
-
+-->
 <!--
 **hemauricio/hemauricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
